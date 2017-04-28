@@ -9,6 +9,7 @@ namespace TeamWork
 {
     class Cafe: IComparable<Cafe>
     {
+        string s = "hello";
         List<Cafe> menu_am = new List<Cafe>();
         public Dictionary<string, int> Menu { get; set; }
         public string Name { get; private set; }
