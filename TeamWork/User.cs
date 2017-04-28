@@ -19,7 +19,5 @@ namespace TeamWork
             this.ID = idCount;
             idCount++;
         }
-
-   
     }
 }
