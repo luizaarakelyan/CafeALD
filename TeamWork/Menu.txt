@@ -1,0 +1,13 @@
+omelette 800
+eggs_and_bacon 1000
+pizza 3600
+chicken 2000
+salad 900
+roll 500
+soup 650
+espresso 350
+latte 450
+green_tea 500
+black_tea 600
+wine_white 3000
+wine_red 4000
